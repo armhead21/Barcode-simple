@@ -2,13 +2,8 @@
     {
         "id": 1,
         "Store": "3130425",
-        "QTY": "7",
-        "size": "NS",
-        "detail_type": "D",
-        "Style": "510297",
         "Item": "Adidas Stan Smith  Sky Ti",
-        "currency": "GBP",
-        "price": "5999",
+        "QTY": "7",
         "Complete": false
     }
 ]
